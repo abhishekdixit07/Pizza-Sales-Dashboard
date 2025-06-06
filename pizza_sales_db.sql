@@ -1,8 +1,4 @@
-/* © 2023 Tushar Aggarwal. All rights reserved. 
-https://github.com/tushar2704/
-Pizza_Sales_Analysis
-*/
-/*---------------------------Creating DB----------------------------------------------------*/
+
 
 CREATE DATABASE "Pizza_Sales_Analysis"
     WITH
@@ -35,8 +31,3 @@ COPY pizza_sales
 FROM 'D:\Pizza-Sales-Analysis\src\data\pizza_sales.csv'
 WITH (FORMAT CSV, HEADER);
 
-------------------------------------------------------------------------------------------------------------
-/* © 2023 Tushar Aggarwal. All rights reserved. 
-https://github.com/tushar2704/
-Pizza_Sales_Analysis
-*/
